@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Sujalproject/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Sujalproject/dsa/tree/master/0402-remove-k-digits) |
 ## Stack
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Sujalproject/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -35,5 +37,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Sujalproject/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
