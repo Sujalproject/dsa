@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Sujalproject/dsa/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
@@ -23,4 +24,16 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Sujalproject/dsa/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
