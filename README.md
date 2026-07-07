@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sujalproject/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Sujalproject/dsa/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sujalproject/dsa/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -49,5 +50,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sujalproject/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Sujalproject/dsa/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
