@@ -35,6 +35,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujalproject/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sujalproject/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Sujalproject/dsa/tree/master/0275-h-index-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Sujalproject/dsa/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sujalproject/dsa/tree/master/0739-daily-temperatures) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sujalproject/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Sujalproject/dsa/tree/master/0409-longest-palindrome) |
@@ -55,6 +57,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sujalproject/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sujalproject/dsa/tree/master/1189-maximum-number-of-balloons) |
@@ -84,18 +87,26 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujalproject/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sujalproject/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujalproject/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujalproject/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujalproject/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
