@@ -1,5 +1,5 @@
 struct cmp{
-    bool operator()(pair<int,int> &a,pair<int,int>&b){
+    bool operator()(const pair<int,int> &a,const pair<int,int>&b){
         if(a.first!=b.first)
             return a.first>b.first;
         return a.second>b.second;
@@ -34,6 +34,7 @@ public:
             ans.push_back(pq.top().second);
             pq.pop();
         }
+        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
