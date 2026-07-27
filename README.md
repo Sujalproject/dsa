@@ -38,6 +38,7 @@
 | [0275-h-index-ii](https://github.com/Sujalproject/dsa/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Sujalproject/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Sujalproject/dsa/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sujalproject/dsa/tree/master/0739-daily-temperatures) |
@@ -77,6 +78,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Sujalproject/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Sujalproject/dsa/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Sujalproject/dsa/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Sujalproject/dsa/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sujalproject/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sujalproject/dsa/tree/master/0875-koko-eating-bananas) |
@@ -100,6 +102,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujalproject/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Sujalproject/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Sujalproject/dsa/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -108,6 +111,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujalproject/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Sujalproject/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Sujalproject/dsa/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
@@ -133,4 +137,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Sujalproject/dsa/tree/master/0973-k-closest-points-to-origin) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Sujalproject/dsa/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Sujalproject/dsa/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
