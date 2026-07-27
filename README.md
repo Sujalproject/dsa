@@ -8,6 +8,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Sujalproject/dsa/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sujalproject/dsa/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Sujalproject/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -37,6 +38,7 @@
 | [0275-h-index-ii](https://github.com/Sujalproject/dsa/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Sujalproject/dsa/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sujalproject/dsa/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sujalproject/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -49,6 +51,7 @@
 | [0383-ransom-note](https://github.com/Sujalproject/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Sujalproject/dsa/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Sujalproject/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
@@ -60,6 +63,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sujalproject/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Sujalproject/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
@@ -94,12 +98,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujalproject/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujalproject/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -109,4 +115,9 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
