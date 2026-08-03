@@ -49,6 +49,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sujalproject/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sujalproject/dsa/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Sujalproject/dsa/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Sujalproject/dsa/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sujalproject/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sujalproject/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
@@ -128,6 +129,7 @@
 | [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sujalproject/dsa/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Sujalproject/dsa/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Sujalproject/dsa/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sujalproject/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
