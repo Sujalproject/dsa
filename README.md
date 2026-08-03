@@ -9,6 +9,7 @@
 | [0402-remove-k-digits](https://github.com/Sujalproject/dsa/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sujalproject/dsa/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Sujalproject/dsa/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sujalproject/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -20,6 +21,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Sujalproject/dsa/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sujalproject/dsa/tree/master/0409-longest-palindrome) |
+| [0767-reorganize-string](https://github.com/Sujalproject/dsa/tree/master/0767-reorganize-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Sujalproject/dsa/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Sujalproject/dsa/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sujalproject/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
@@ -67,6 +70,7 @@
 | [0383-ransom-note](https://github.com/Sujalproject/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Sujalproject/dsa/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sujalproject/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
@@ -107,6 +111,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Sujalproject/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Sujalproject/dsa/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Sujalproject/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sujalproject/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
@@ -117,6 +122,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sujalproject/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Sujalproject/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sujalproject/dsa/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Sujalproject/dsa/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Sujalproject/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sujalproject/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
