@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sujalproject/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sujalproject/dsa/tree/master/0022-generate-parentheses) |
 | [0383-ransom-note](https://github.com/Sujalproject/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -58,6 +59,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sujalproject/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sujalproject/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sujalproject/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujalproject/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -186,6 +188,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sujalproject/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sujalproject/dsa/tree/master/0022-generate-parentheses) |
 ## Bracket Sequences
 |  |
