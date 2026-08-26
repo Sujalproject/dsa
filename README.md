@@ -16,6 +16,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sujalproject/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Sujalproject/dsa/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Sujalproject/dsa/tree/master/0739-daily-temperatures) |
 ## Greedy
@@ -198,4 +199,16 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sujalproject/dsa/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sujalproject/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sujalproject/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sujalproject/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
