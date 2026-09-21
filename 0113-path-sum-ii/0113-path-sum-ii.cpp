@@ -21,6 +21,7 @@ public:
             if(sum == target){
                 res.push_back(maybe);
             }
+
              return;
         }
         fun(root->left,sum,target,maybe);
